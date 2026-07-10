@@ -1,0 +1,6 @@
+Model,CV F1(macro) mean,CV F1(macro) std
+Random Forest,0.5636,0.0205
+XGBoost,0.5606,0.0261
+SVM (RBF),0.5165,0.0359
+Logistic Regression,0.5162,0.0297
+K-Nearest Neighbors,0.4146,0.0369
