@@ -1,0 +1,6 @@
+Model,Accuracy,Precision(macro),Recall(macro),F1(macro),ROC-AUC(macro)
+SVM (RBF),0.7161,0.6508,0.5433,0.5544,0.8683
+XGBoost,0.7056,0.5714,0.5443,0.5502,0.8514
+Random Forest,0.7161,0.5959,0.5431,0.5475,0.8588
+Logistic Regression,0.7265,0.5725,0.5329,0.5398,0.8687
+K-Nearest Neighbors,0.6075,0.4591,0.3717,0.3723,0.7879

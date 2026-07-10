@@ -1,0 +1,6 @@
+Model,RMSE,MAE,R2
+Linear Regression,0.1966,0.1553,0.9532
+Gradient Boosting,0.2088,0.1641,0.9473
+XGBoost Regressor,0.2178,0.1743,0.9426
+SVR (RBF),0.2318,0.1828,0.935
+Random Forest Regressor,0.2383,0.1864,0.9313

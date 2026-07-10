@@ -1,0 +1,6 @@
+Model,CV R2 mean,CV R2 std
+Linear Regression,0.9534,0.0038
+Gradient Boosting,0.9479,0.0043
+XGBoost Regressor,0.9426,0.0051
+SVR (RBF),0.9389,0.0049
+Random Forest Regressor,0.9334,0.0037
