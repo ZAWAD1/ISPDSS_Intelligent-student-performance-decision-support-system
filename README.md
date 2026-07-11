@@ -23,6 +23,12 @@ predictions into explainable, human-readable recommendations.
 
 ## 📸 Project Dashboard Screenshots
 
+![Dashboard]()
+![Prediction&Advisetab]()
+![Predictedinput]()
+![Predictedoutput]()
+![ModelComparison]()
+![info]()
 <!--
   Add screenshots of the running Streamlit dashboard here.
   Suggested shots: the Predict & Advise tab (input form + results),
