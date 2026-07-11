@@ -23,15 +23,21 @@ predictions into explainable, human-readable recommendations.
 
 ## 📸 Project Dashboard Screenshots
 
+```
 **Dual prediction**
 ![Dashboard](https://github.com/ZAWAD1/ISPDSS_Intelligent-student-performance-decision-support-system/blob/b9d3c205b1d956e7c3d7a4b0b7df2b0bbc04e233/demo/dashboard.png)
+```
 **Prediction & Advisetab (Input & Output)**
 ![Predictedinput](https://github.com/ZAWAD1/ISPDSS_Intelligent-student-performance-decision-support-system/blob/b9d3c205b1d956e7c3d7a4b0b7df2b0bbc04e233/demo/prediction1.png)
+```
 ![Predictedoutput](https://github.com/ZAWAD1/ISPDSS_Intelligent-student-performance-decision-support-system/blob/b9d3c205b1d956e7c3d7a4b0b7df2b0bbc04e233/demo/prediction2.png)
+```
 **Model Comparison Tab**
 ![ModelComparison](https://github.com/ZAWAD1/ISPDSS_Intelligent-student-performance-decision-support-system/blob/b9d3c205b1d956e7c3d7a4b0b7df2b0bbc04e233/demo/modelcomparison.png)
+```
 **Info Tab**
 ![info](https://github.com/ZAWAD1/ISPDSS_Intelligent-student-performance-decision-support-system/blob/b9d3c205b1d956e7c3d7a4b0b7df2b0bbc04e233/demo/info.png)
+```
 
 ---
 
