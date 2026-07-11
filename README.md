@@ -23,20 +23,15 @@ predictions into explainable, human-readable recommendations.
 
 ## 📸 Project Dashboard Screenshots
 
-![Dashboard]()
-![Prediction&Advisetab]()
-![Predictedinput]()
-![Predictedoutput]()
-![ModelComparison]()
-![info]()
-<!--
-  Add screenshots of the running Streamlit dashboard here.
-  Suggested shots: the Predict & Advise tab (input form + results),
-  the Model Comparison tab, and the About tab.
-  Example:
-  ![Predict & Advise](screenshots/predict_and_advise.png)
-  ![Model Comparison](screenshots/model_comparison.png)
--->
+**Dual prediction**
+![Dashboard](https://github.com/ZAWAD1/ISPDSS_Intelligent-student-performance-decision-support-system/blob/b9d3c205b1d956e7c3d7a4b0b7df2b0bbc04e233/demo/dashboard.png)
+**Prediction & Advisetab (Input & Output)**
+![Predictedinput](https://github.com/ZAWAD1/ISPDSS_Intelligent-student-performance-decision-support-system/blob/b9d3c205b1d956e7c3d7a4b0b7df2b0bbc04e233/demo/prediction1.png)
+![Predictedoutput](https://github.com/ZAWAD1/ISPDSS_Intelligent-student-performance-decision-support-system/blob/b9d3c205b1d956e7c3d7a4b0b7df2b0bbc04e233/demo/prediction2.png)
+**Model Comparison Tab**
+![ModelComparison](https://github.com/ZAWAD1/ISPDSS_Intelligent-student-performance-decision-support-system/blob/b9d3c205b1d956e7c3d7a4b0b7df2b0bbc04e233/demo/modelcomparison.png)
+**Info Tab**
+![info](https://github.com/ZAWAD1/ISPDSS_Intelligent-student-performance-decision-support-system/blob/b9d3c205b1d956e7c3d7a4b0b7df2b0bbc04e233/demo/info.png)
 
 ---
 
@@ -70,12 +65,12 @@ ISPDSS-Intelligent_Student_Performance_Decision_SupportSystem/
 |   ├── eda_correlation.png
 |   └── grade_gpa_distribution.png
 └── demo                            # Project dashboard screenshots
-    ├── classification_results.csv
-    ├── classification_cv_results.csv
-    ├── regression_results.csv
-    ├── regression_cv_results.csv
-    ├── confusion_matrix_rf.png
-    ├── eda_correlation.png
+    ├── dashboard.png
+    ├── info.png
+    ├── modelcomparison.png
+    ├── prediction1.png             # Prediction Input
+    └── prediction2.png             # Prediction Output
+
 
 ```
 
@@ -167,13 +162,14 @@ Python · scikit-learn · XGBoost · pandas / NumPy · Streamlit · Jupyter Note
 
 ---
 
-## ⚠️ Disclaimer
-
-This is a simulated decision-support prototype built for educational purposes. It does not
-replace professional academic or psychological judgment.
-
----
-
 ## 📄 License
 
-Add your preferred license here (e.g., MIT).
+Copyright <2026> <COPYRIGHT kaizen>
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+
